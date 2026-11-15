@@ -260,7 +260,6 @@ function App() {
           {navItems.map(([label, id]) => (
             <a key={id} className={activeSection === id ? "active" : ""} href={`#${id}`} onClick={(event) => scrollToSection(event, id)}>{label}</a>
           ))}
-          <a className="nav-cta" href="#contact" onClick={(event) => scrollToSection(event, "contact")}>Let's connect <ArrowUpRight size={15} /></a>
         </div>
       </nav>
 
