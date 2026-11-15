@@ -44,7 +44,7 @@ const projects = [
     github: "https://github.com/Sciatzy/Fetch.git"
   },
   {
-    title: "Barbershop SaaS",
+    title: "Online Barbershop Booking and Management System (SaaS)",
     subtitle: "Booking & Business Operations Platform",
     category: "Web",
     label: "Web & Business",
