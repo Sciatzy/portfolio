@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>SR portfolio logo</title>
+  <rect width="64" height="64" rx="8" fill="#090b0e"/>
+  <path d="M8 16V8h8M48 8h8v8M56 48v8h-8M16 56H8v-8" fill="none" stroke="#f59e0b" stroke-width="2"/>
+  <text x="32" y="40" fill="#f59e0b" font-family="DM Mono, ui-monospace, monospace" font-size="25" font-weight="700" letter-spacing="-2" text-anchor="middle">SR</text>
+</svg>
