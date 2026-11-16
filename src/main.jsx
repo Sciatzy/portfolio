@@ -3,7 +3,7 @@ import { createRoot } from "react-dom/client";
 import {
   ArrowUpRight, BadgeCheck, BookOpen, Check, CheckCircle2, ChevronLeft,
   ChevronRight, CircleDot, ClipboardCheck, Code2, Copy, Download, Github,
-  Linkedin, Mail, Menu, Network, ShieldCheck, Terminal, X, Wrench, Globe
+  Linkedin, Mail, Menu, Network, ShieldCheck, Terminal, X, Wrench
 } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 import "./index.css";
@@ -367,10 +367,6 @@ function App() {
                   <div className="direct-action-copy"><span>GitHub repositories</span><b>Review my project work</b></div>
                   <ArrowUpRight className="direct-action-arrow" size={18} />
                 </a>
-                <div className="direct-action-card portfolio-action">
-                  <div className="direct-action-icon"><Globe size={20} /></div>
-                  <div className="direct-action-copy"><span>Portfolio</span><a className="portfolio-link" href="https://sciatzy-rabina-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">View My Portfolio ↗</a></div>
-                </div>
                 <a className="direct-action-card resume-action" href="/CV_RABINA.pdf" download="CV_RABINA.pdf">
                   <div className="direct-action-icon"><Download size={20} /></div>
                   <div className="direct-action-copy"><span>Resume / CV</span><b>Download my credentials</b></div>
