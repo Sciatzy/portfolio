@@ -273,7 +273,7 @@ function App() {
               <p className="hero-lede">An aspiring <strong>QA & IT Support Specialist</strong> focused on reliable software, thoughtful test cases, and systems that work for people.</p>
               <div className="hero-actions">
                 <a className="button button-primary" href="#projects">Explore projects <ArrowUpRight size={17} /></a>
-                <a className="text-link" href="/CV_RABINA.pdf?v=2" download="CV_RABINA.pdf">Download resume <Download size={15} /></a>
+                <a className="text-link" href="/resume-rabina.pdf?v=2" download="resume-rabina.pdf">Download resume <Download size={15} /></a>
               </div>
               <div className="hero-meta"><span><CircleDot size={13} /> Malaybalay City, PH</span><span className="meta-divider" /><span>Open to remote & hybrid</span></div>
             </div>
@@ -367,7 +367,7 @@ function App() {
                   <div className="direct-action-copy"><span>GitHub repositories</span><b>Review my project work</b></div>
                   <ArrowUpRight className="direct-action-arrow" size={18} />
                 </a>
-                <a className="direct-action-card resume-action" href="/CV_RABINA.pdf?v=2" download="CV_RABINA.pdf">
+                <a className="direct-action-card resume-action" href="/resume-rabina.pdf?v=2" download="resume-rabina.pdf">
                   <div className="direct-action-icon"><Download size={20} /></div>
                   <div className="direct-action-copy"><span>Resume / CV</span><b>Download my credentials</b></div>
                   <Download className="direct-action-arrow" size={18} />
